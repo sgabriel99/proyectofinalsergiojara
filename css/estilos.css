@@ -1,0 +1,19 @@
+*{padding: 0px;margin: 0px;box-sizing: border-box;}
+.tituloPrincipal{color: rgb(156, 26, 3);font-size: 45px;text-align: center;font-family: cursive;}
+.cuerpoPrincipal{background-color: rgb(222, 169, 104);}
+.menuEncabezado{background-color: rgb(89, 51, 6);text-align:end;position: sticky;top: 0;}
+body header nav ul li{display: inline-block;background-color: rgb(219, 145, 54);padding: 5px;margin: 10px;font-size: 20px;border-radius:15px;}
+div img{width: 3%;display: inline;align-items: center;}
+body main img {width: 30%;}
+#somosRepresentantes{margin-bottom: 25px;text-align: center;font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;color: rgb(219, 244, 140);}
+.descripsionferre{padding: 45px;margin: 20px;background-color: rgb(190, 126, 49);border-radius: 15px;}
+.descripsion2{padding: 25px;margin: 25px;background-color: rgb(190, 126, 49);border-radius: 15px;}
+.volverAlahome{text-decoration: none;display: inline-block;padding: 10px;background-color: rgb(209, 147, 71);border-radius: 15px;font-size: 20px;}
+.cuerpoPages{background-color: bisque;}
+.encabezadoPages{background-color: rgb(190, 150, 102);text-align: end;position: sticky;top: 0;}
+#nh{font-size: 40px;text-align: center;font-family: cursive;color: blue;text-decoration: underline ;}
+.descHisto{background-color: rgb(141, 121, 91);padding: 10px;margin: 10px;}
+.descSuc{background-color: rgb(141, 121, 91);padding: 10px;margin: 70px;}
+.apreta{background-color: rgb(172, 201, 201);}
+.imgProdu{flex: auto;align-items: center;}
+main h1{font-size: 15px;}
